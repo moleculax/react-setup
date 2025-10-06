@@ -14,7 +14,7 @@ Permite instalar dependencias comunes como **Bootstrap**, **Axios** y **React Ic
 ✅ Generación de un componente React funcional con ejemplo comentado de uso de Axios  
 ✅ Totalmente interactivo y personalizable  
 
----
+```text
 my-react-app/
 │
 ├── node_modules/
@@ -29,7 +29,7 @@ my-react-app/
 ├── react-setup.sh
 ├── README.md
 └── ...
-
+```
 
 
 ## ⚙️ Requisitos previos
@@ -44,13 +44,14 @@ Asegúrate de tener instalados los siguientes paquetes:
   
   ./react-setup.sh
 
-
+```text
 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT, lo que significa que puedes usarlo, modificarlo y distribuirlo libremente siempre que se mantenga la atribución original.
+Este proyecto se distribuye bajo la licencia MIT, lo que significa que puedes usarlo,
+modificarlo y distribuirlo libremente siempre que se mantenga la atribución original.
 
 Autor
 
 Emilio J. Gomez
 📧 Desarrollador de sistemas y entusiasta del software libre.
-
+```
